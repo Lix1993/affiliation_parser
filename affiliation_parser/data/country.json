@@ -1,0 +1,331 @@
+{
+    "italy": [
+        "italia",
+        "torino",
+        "turin",
+        "portici",
+        "palermo"
+    ],
+    "united kingdom": [
+        "u.k.",
+        "\\buk\\b",
+        "uk.",
+        "england",
+        " uk",
+        "liverpool",
+        "london",
+        "crumpsall",
+        "leicester",
+        "manchester",
+        "cardiff",
+        "salford",
+        "bradford",
+        "oxford",
+        "clwyd",
+        "edinburgh",
+        "edinburge"
+    ],
+    "united states of america": [
+        "u.s.a",
+        "u. s. a.",
+        "united states",
+        "massachusetts",
+        "boston",
+        "howard university",
+        "torrance",
+        "san francisco",
+        "duarte",
+        "los alamos",
+        "houston"
+    ],
+    "germany": [
+        "frg",
+        "brd",
+        "f.r.g.",
+        "deutschland",
+        "engelskirchen",
+        "berlin",
+        "hannover",
+        "marburg",
+        "mainz",
+        "leipzig",
+        "frankfurt"
+    ],
+    "japan": [
+        "keio University",
+        "jikei university",
+        "shiga university",
+        "jikei university",
+        "niigata university",
+        "sendai city",
+        "shiba",
+        "asahikawa",
+        "tokyo",
+        "yokohama",
+        "osaka",
+        "nagoya",
+        "sapporo",
+        "kobe",
+        "kyoto",
+        "fukuoka",
+        "kawasaki",
+        "saitama",
+        "hiroshima",
+        "sendai",
+        "kitakyushu",
+        "chiba",
+        "sakai",
+        "hamamatsu",
+        "niigata",
+        "shizuoka",
+        "okayama",
+        "asahikawa",
+        "yamaguchi",
+        "okayama",
+        "gunma",
+        "hyogo",
+        "kanazawa",
+        "fukui",
+        "tajimi",
+        "komagome",
+        "akita",
+        "suita",
+        "kochi",
+        "nara medical",
+        "keio",
+        "kobe university",
+        "gunma",
+        "gifu university",
+        "toranomon",
+        "bunkyo gakuin"
+    ],
+    "south korea": [
+        "korea",
+        "seoul"
+    ],
+    "russia": [
+        "moscow"
+    ],
+    "austria": [
+        "linz",
+        "wien",
+        " graz",
+        "innsbruck"
+    ],
+    "israel": [
+        "jerusalem",
+        "haifa",
+        "tel aviv"
+    ],
+    "norway": [
+        " oslo"
+    ],
+    "finland": [
+        "helsinki"
+    ],
+    "south africa": [
+        "johannesburg",
+        "onderstepoort",
+        "pretoria"
+    ],
+    "france": [
+        "paris",
+        "marseille",
+        "brest",
+        "limoges",
+        "toulouse"
+    ],
+    "canada": [
+        "vancouver",
+        "ontario",
+        "ottawa",
+        "nova scotia",
+        "calgary",
+        "alberta"
+    ],
+    "denmark": [
+        "copenhagen"
+    ],
+    "taiwan": [
+        "taiwan, ",
+        "taipei",
+        "chi-mei medical"
+    ],
+    "china": [
+        "beijing",
+        "pr china",
+        "hangzhou",
+        "zhejiang",
+        "shenyang",
+        "shanghai"
+    ],
+    "egypt": [
+        "cairo"
+    ],
+    "poland": [
+        "gdansk",
+        "krakow"
+    ],
+    "turkey": [
+        "istanbul",
+        " ankara"
+    ],
+    "netherlands": [
+        "utrecht",
+        "nijmegen",
+        "amsterdam",
+        "leiden"
+    ],
+    "belgium": [
+        "belgique",
+        " namur",
+        "bruxelles",
+        " genk"
+    ],
+    "sweden": [
+        "karlstad",
+        "uppsala",
+        "stockholm"
+    ],
+    "australia": [
+        " perth",
+        "queensland",
+        "canberra",
+        "melbourne"
+    ],
+    "hungary": [
+        "budapest"
+    ],
+    " india": [
+        "chandigarh",
+        "hyderabad",
+        "delhi",
+        "calcutta",
+        "wardha",
+        " ucms",
+        "ludhiana",
+        "vellore"
+    ],
+    "ireland": [
+        "dublin",
+        "belfast"
+    ],
+    "colombia": [
+        "bogota"
+    ],
+    "spain": [
+        " madrid",
+        " toledo",
+        " alicante",
+        "zaragoza",
+        "saragossa",
+        "barcelona",
+        "hospital vega baja",
+        "valencia",
+        "malaga"
+    ],
+    "greece": [
+        "athens"
+    ],
+    "new zealand": [
+        "upper hutt",
+        "auckland"
+    ],
+    "saudi arabia": [
+        "riyadh"
+    ],
+    "nigeria": [
+        "ibadan"
+    ],
+    "croatia": [
+        "yugoslavia",
+        "belgrade"
+    ],
+    "switzerland": [
+        "basel",
+        " geneva"
+    ],
+    "brazil": [
+        "brasil",
+        "rio de janeiro",
+        "cordeiropolis"
+    ],
+    "thailand": [
+        "bangkok"
+    ],
+    "argentina": [
+        "buenos aires"
+    ],
+    "tunisia": [
+        "tunis",
+        "tunisie"
+    ],
+    "czech republic": [
+        " praha",
+        "prague",
+        "czechoslovakia"
+    ],
+    "zimbabwe": [
+        "bulawayo"
+    ],
+    "malaysia": [
+        "kelantan"
+    ],
+    "vietnam": [
+        "hanoi"
+    ],
+    "hong kong": [
+        "hong kong"
+    ],
+    " iran": [
+        "tehran",
+        "shiraz",
+        "mashhad"
+    ],
+    "mexico": [
+        "mexico city"
+    ],
+    "romania": [
+        "bucharest"
+    ],
+    "congo": [
+        "democratic republic of congo"
+    ],
+    "armenia": [
+        "yerevan"
+    ],
+    "bosnia and herzegovina": [
+        "bosnia",
+        "herzegovina"
+    ],
+    "albania": [
+        "tirana"
+    ],
+    "tanzania": [
+        "morogoro"
+    ],
+    "sri lanka": [
+        "sri lanka"
+    ],
+    "cyprus": [
+        "nicosia"
+    ],
+    "gambia": [
+        " banjul"
+    ],
+    "lithuania": [
+        "lietuvos"
+    ],
+    "peru": [
+        " lima"
+    ],
+    "portugal": [
+        "lisboa"
+    ],
+    "philippines": [
+        "manila"
+    ],
+    "kuwait": [
+        "kuwait city"
+    ]
+}

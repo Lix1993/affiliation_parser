@@ -1,3 +1,6 @@
+from ..data import STATES
+
+
 def check_country(affil_text: str):
     """
     Check if any states string from USA or UK

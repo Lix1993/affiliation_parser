@@ -1,12 +1,17 @@
+import re
+
+from ..data import COUNTRY
+
+
 def find_country(location: str):
     """
     Find country from string
     """
     location_lower = location.lower()
     for country in COUNTRY:
-        for c in country:
+        for c in COUNTRY[country]:
             if c in location_lower:
-                return country[0]
+                return country
     return ""
 
 
