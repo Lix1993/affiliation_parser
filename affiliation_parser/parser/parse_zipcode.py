@@ -12,8 +12,8 @@ def parse_zipcode(affil_text: str):
         r"\d{6}",
         r"\d{5}[-]?\d{4}?"
         r"\d{5}",
-        r"\d{4}",
         r"\d{3}-\d{4}",
+        r"\d{4}",
         r"\d{3}[ ]?\d{2}",
         r"\d{2}[ -]?\d{3}",
         r"\d{3}",

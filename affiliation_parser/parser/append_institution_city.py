@@ -9,6 +9,6 @@ def append_institution_city(affil: str, location: str):
         if university in affil.lower():
             for city in UNIVERSITY_MULTIPLE_CAMPUS[university]:
                 if city in location.lower() and not city in affil.lower():
-                    affil = affil + " " + city
+                    affil = affil + ", " + city
                     return affil
     return affil

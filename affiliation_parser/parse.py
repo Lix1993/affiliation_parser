@@ -63,6 +63,7 @@ def parse_affil(affil_text):
     department = ", ".join(department_list)
 
     dict_location = parse_location(location)
+
     institution = append_institution_city(institution,
                                           dict_location["location"])
 
