@@ -20,6 +20,9 @@ if __name__ == "__main__":
         author_email="titipata@u.northwestern.edu",
         license="(c) 2015 Titipat Achakulvisut",
         keywords="parser affilation",
-        install_requires=REQUIREMENTS,
+        install_requires=['unidecode', 'numpy'],
+        extras_require={
+            'matcher': ['pandas', 'recordlinkage', 'requests'],
+        },
         packages=["affiliation_parser"],
     )

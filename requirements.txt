@@ -1,3 +1,8 @@
+# parser requirement
 unidecode
 numpy
+
+# matcher requirement
 recordlinkage
+pandas
+requests
