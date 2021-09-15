@@ -14,6 +14,7 @@ def clean_text(affil_text: str):
     affil_text = re.sub("Univ. ", "University ", affil_text)
     affil_text = re.sub("Dept. ", "Department ", affil_text)
     affil_text = re.sub("Surg. ", "Surgery ", affil_text)
+    affil_text = re.sub(", Inc.", " Inc.", affil_text)
 
     affil_text = re.sub("E-mail:", "", affil_text)
     affil_text = re.sub("email:", "", affil_text)
