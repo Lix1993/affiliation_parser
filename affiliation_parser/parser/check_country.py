@@ -1,14 +1,13 @@
-from ..data import STATES
+from ..data import SUB_REGION
 
 
 def check_country(affil_text: str):
     """
     Check if any states string from USA or UK
     """
-    for country in ["UK"]:
-        if country in affil_text:
-            return "united kingdom"
-    for state in STATES:
-        if state in affil_text:
-            return "united states of america"
+    for region in SUB_REGION:
+        for sub_region in SUB_REGION[region]:
+            if sub_region in affil_text.lower():
+                return region
+
     return ""

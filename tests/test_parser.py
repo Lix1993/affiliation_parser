@@ -9,3 +9,8 @@ def test_parse_email():
 
 def test_parse_zip_code():
     assert parse_zipcode('123456') == '123456'
+
+
+import time
+
+time.sleep(100000)

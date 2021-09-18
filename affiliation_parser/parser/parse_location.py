@@ -1,6 +1,6 @@
 import re
 
-from ..data import COUNTRY
+from ..data import REGION_ALIAS
 
 
 def find_country(location: str):
@@ -8,8 +8,8 @@ def find_country(location: str):
     Find country from string
     """
     location_lower = location.lower()
-    for country in COUNTRY:
-        for c in COUNTRY[country]:
+    for country in REGION_ALIAS:
+        for c in REGION_ALIAS[country]:
             if c in location_lower:
                 return country
     return ""

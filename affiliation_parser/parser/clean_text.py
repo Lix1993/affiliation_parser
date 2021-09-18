@@ -9,15 +9,18 @@ def clean_text(affil_text: str):
 
     affil_text = re.sub("\t", " ", affil_text)
     affil_text = re.sub(r"\*", " ", affil_text)
-    affil_text = re.sub(";", "", affil_text)
+    affil_text = re.sub(";", ", ", affil_text)
 
     affil_text = re.sub("Univ. ", "University ", affil_text)
     affil_text = re.sub("Dept. ", "Department ", affil_text)
     affil_text = re.sub("Surg. ", "Surgery ", affil_text)
+
     affil_text = re.sub(", Inc.", " Inc.", affil_text)
 
     affil_text = re.sub("E-mail:", "", affil_text)
     affil_text = re.sub("email:", "", affil_text)
     affil_text = re.sub("P.O. Box", "", affil_text)  # zip code
+
+    affil_text = re.sub("\s+", " ", affil_text)
 
     return affil_text.strip()

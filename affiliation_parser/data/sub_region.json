@@ -1,17 +1,129 @@
 {
-    "italy": [
-        "italia",
-        "torino",
-        "turin",
-        "portici",
-        "palermo"
+    "united states": [
+        "massachusetts",
+        "boston",
+        "howard university",
+        "torrance",
+        "san francisco",
+        "duarte",
+        "los alamos",
+        "houston",
+        "alabama",
+        "alaska",
+        "arizona",
+        "arkansas",
+        "california",
+        "colorado",
+        "connecticut",
+        "delaware",
+        "florida",
+        "georgia",
+        "hawaii",
+        "idaho",
+        "illinois",
+        "indiana",
+        "iowa",
+        "kansas",
+        "kentucky",
+        "louisiana",
+        "maine",
+        "maryland",
+        "michigan",
+        "minnesota",
+        "mississippi",
+        "missouri",
+        "montana",
+        "nebraska",
+        "nevada",
+        "new hampshire",
+        "new jersey",
+        "new mexico",
+        "new york",
+        "north carolina",
+        "north dakota",
+        "ohio",
+        "oklahoma",
+        "oregon",
+        "pennsylvania",
+        "rhode island",
+        "south carolina",
+        "south dakota",
+        "tennessee",
+        "texas",
+        "utah",
+        "vermont",
+        "virginia",
+        "washington",
+        "west virginia",
+        "wisconsin",
+        "wyoming",
+        "washington dc",
+        " al",
+        " ak",
+        " az",
+        " ar",
+        " ca",
+        " co",
+        " ct",
+        " de",
+        " fl",
+        " ga ",
+        " ga,",
+        " hi",
+        " id",
+        " il",
+        " in",
+        " ia",
+        " ks",
+        " ky",
+        " la",
+        " me",
+        " md",
+        " ma,",
+        " ma ",
+        " mi",
+        " mn",
+        " ms",
+        " mo",
+        " mt",
+        " ne",
+        " nv",
+        " nh",
+        " nj",
+        " nm",
+        " ny",
+        " nc",
+        " nd",
+        " oh",
+        " ok",
+        " or",
+        " pa",
+        " ri",
+        " sc",
+        " sd",
+        " tn",
+        " tx",
+        " ut",
+        " vt",
+        " va",
+        " wa",
+        " wv",
+        " wi",
+        " wy",
+        " dc"
+    ],
+    "china": [
+        "beijing",
+        "hangzhou",
+        "zhejiang",
+        "shenyang",
+        "shanghai"
+    ],
+    "taiwan": [
+        "taipei",
+        "chi-mei medical"
     ],
     "united kingdom": [
-        "u.k.",
-        "\\buk\\b",
-        "uk.",
-        "england",
-        " uk",
         "liverpool",
         "london",
         "crumpsall",
@@ -25,24 +137,13 @@
         "edinburgh",
         "edinburge"
     ],
-    "united states of america": [
-        "u.s.a",
-        "u. s. a.",
-        "united states",
-        "massachusetts",
-        "boston",
-        "howard university",
-        "torrance",
-        "san francisco",
-        "duarte",
-        "los alamos",
-        "houston"
+    "italy": [
+        "torino",
+        "turin",
+        "portici",
+        "palermo"
     ],
     "germany": [
-        "frg",
-        "brd",
-        "f.r.g.",
-        "deutschland",
         "engelskirchen",
         "berlin",
         "hannover",
@@ -100,7 +201,6 @@
         "bunkyo gakuin"
     ],
     "south korea": [
-        "korea",
         "seoul"
     ],
     "russia": [
@@ -111,6 +211,9 @@
         "wien",
         " graz",
         "innsbruck"
+    ],
+    "south korea": [
+        "korea"
     ],
     "israel": [
         "jerusalem",
@@ -146,19 +249,6 @@
     "denmark": [
         "copenhagen"
     ],
-    "taiwan": [
-        "taiwan, ",
-        "taipei",
-        "chi-mei medical"
-    ],
-    "china": [
-        "beijing",
-        "pr china",
-        "hangzhou",
-        "zhejiang",
-        "shenyang",
-        "shanghai"
-    ],
     "egypt": [
         "cairo"
     ],
@@ -176,11 +266,14 @@
         "amsterdam",
         "leiden"
     ],
-    "belgium": [
-        "belgique",
-        " namur",
-        "bruxelles",
-        " genk"
+    "cyprus": [
+        "nicosia"
+    ],
+    "gambia": [
+        " banjul"
+    ],
+    "thailand": [
+        "bangkok"
     ],
     "sweden": [
         "karlstad",
@@ -212,6 +305,24 @@
     ],
     "colombia": [
         "bogota"
+    ],
+    "malaysia": [
+        "kelantan"
+    ],
+    " iran": [
+        "tehran",
+        "shiraz",
+        "mashhad"
+    ],
+    "tunisia": [
+        "tunis"
+    ],
+    "romania": [
+        "bucharest"
+    ],
+    "czech republic": [
+        " praha",
+        "prague"
     ],
     "spain": [
         " madrid",
@@ -245,58 +356,21 @@
         "basel",
         " geneva"
     ],
-    "brazil": [
-        "brasil",
-        "rio de janeiro",
-        "cordeiropolis"
-    ],
-    "thailand": [
-        "bangkok"
-    ],
     "argentina": [
         "buenos aires"
     ],
-    "tunisia": [
-        "tunis",
-        "tunisie"
+    "brazil": [
+        "rio de janeiro",
+        "cordeiropolis"
     ],
-    "czech republic": [
-        " praha",
-        "prague",
-        "czechoslovakia"
+    "peru": [
+        " lima"
     ],
     "zimbabwe": [
         "bulawayo"
     ],
-    "malaysia": [
-        "kelantan"
-    ],
     "vietnam": [
         "hanoi"
-    ],
-    "hong kong": [
-        "hong kong"
-    ],
-    " iran": [
-        "tehran",
-        "shiraz",
-        "mashhad"
-    ],
-    "mexico": [
-        "mexico city"
-    ],
-    "romania": [
-        "bucharest"
-    ],
-    "congo": [
-        "democratic republic of congo"
-    ],
-    "armenia": [
-        "yerevan"
-    ],
-    "bosnia and herzegovina": [
-        "bosnia",
-        "herzegovina"
     ],
     "albania": [
         "tirana"
@@ -304,28 +378,18 @@
     "tanzania": [
         "morogoro"
     ],
-    "sri lanka": [
-        "sri lanka"
-    ],
-    "cyprus": [
-        "nicosia"
-    ],
-    "gambia": [
-        " banjul"
-    ],
-    "lithuania": [
-        "lietuvos"
-    ],
-    "peru": [
-        " lima"
-    ],
     "portugal": [
         "lisboa"
+    ],
+    "armenia": [
+        "yerevan"
     ],
     "philippines": [
         "manila"
     ],
-    "kuwait": [
-        "kuwait city"
+    "belgium": [
+        " namur",
+        "bruxelles",
+        " genk"
     ]
 }

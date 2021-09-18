@@ -1,0 +1,56 @@
+{
+    "italy": [
+        "italia"
+    ],
+    "united kingdom": [
+        "u.k.",
+        " uk",
+        "uk.",
+        "\\buk\\b",
+        "england"
+    ],
+    "united states": [
+        "u.s.a",
+        "u. s. a."
+    ],
+    "tunisia": [
+        "tunisie"
+    ],
+    "lithuania": [
+        "lietuvos"
+    ],
+    "czech republic": [
+        "czechoslovakia"
+    ],
+    "germany": [
+        "frg",
+        "brd",
+        "f.r.g.",
+        "deutschland"
+    ],
+    "taiwan": [
+        "taiwan, "
+    ],
+    "mexico": [
+        "mexico city"
+    ],
+    "brazil": [
+        "brasil"
+    ],
+    "congo": [
+        "democratic republic of congo"
+    ],
+    "china": [
+        "pr china"
+    ],
+    "belgium": [
+        "belgique"
+    ],
+    "bosnia and herzegovina": [
+        "bosnia",
+        "herzegovina"
+    ],
+    "kuwait": [
+        "kuwait city"
+    ]
+}
