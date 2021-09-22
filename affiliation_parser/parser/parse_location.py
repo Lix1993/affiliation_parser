@@ -8,10 +8,9 @@ def find_country(location: str):
     Find country from string
     """
     location_lower = location.lower()
-    for country in REGION_ALIAS:
-        for c in REGION_ALIAS[country]:
-            if c in location_lower:
-                return country
+    for alias in REGION_ALIAS:
+        if alias in location_lower:
+            return REGION_ALIAS[alias]
     return ""
 
 
