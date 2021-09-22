@@ -29,7 +29,7 @@ def parse_affil(affil_text):
     affil_text = replace_institution_abbr(affil_text)
     email = parse_email(affil_text)
     dict_out["email"] = email
-    affil_text = re.sub(email, "", affil_text)
+    affil_text = re.sub(re.escape(email), "", affil_text)
 
     zip_code = parse_zipcode(affil_text)
     dict_out["zipcode"] = zip_code
