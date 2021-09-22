@@ -9,7 +9,7 @@ def find_country(location: str):
     """
     location_lower = location.lower()
     for alias in REGION_ALIAS:
-        if alias in location_lower:
+        if alias.lower() in location_lower:
             return REGION_ALIAS[alias]
     return ""
 
