@@ -3,7 +3,7 @@ import re
 import numpy as np
 from unidecode import unidecode
 
-from .data import INSTITUTE_EDUCATIONAL
+from .data import INSTITUTE
 from .parser import (append_institution_city, check_country, clean_text,
                      replace_institution_abbr, parse_email, parse_location,
                      parse_zipcode)
@@ -40,7 +40,6 @@ def parse_affil(affil_text):
     institution_list = list()
     location_list = list()
 
-    INSTITUTE = INSTITUTE_EDUCATIONAL
     for i, a in enumerate(affil_list):
         for ins in INSTITUTE:
             if ins in a.lower():
@@ -104,10 +103,10 @@ def parse_affil(affil_text):
     institution = append_institution_city(institution,
                                           dict_location["location"])
 
-    dict_out["full_text"] = affil_text.strip()
-    dict_out["divide"] = divide.strip()
-    dict_out["sub_devides"] = sub_devides
-    dict_out["institution"] = institution.strip()
+    dict_out["full_text"] = affil_text.strip().strip('.')
+    dict_out["institution"] = institution.strip().strip()
+    dict_out["divide"] = divide.strip().strip('.')
+    dict_out["sub_devides"] = [i.strip().strip('.') for i in sub_devides]
 
     dict_out.update(dict_location)
 

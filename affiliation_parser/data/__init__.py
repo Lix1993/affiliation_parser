@@ -6,11 +6,8 @@ _root = os.path.dirname(os.path.realpath(__file__))
 with open(os.path.join(_root, 'institution_abbr.json')) as f:
     UNIVERSITY_ABBR = json.load(f)
 
-with open(os.path.join(_root, 'institution_educational.json')) as f:
-    INSTITUTE_EDUCATIONAL = json.load(f)
-
-with open(os.path.join(_root, 'institution_commercial.json')) as f:
-    INSTITUTE_COMMERCIAL = json.load(f)
+with open(os.path.join(_root, 'institution.json')) as f:
+    INSTITUTE = json.load(f)
 
 with open(os.path.join(_root, 'multiple_campus.json')) as f:
     MULTIPLE_CAMPUS = json.load(f)
