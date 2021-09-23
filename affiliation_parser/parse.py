@@ -104,7 +104,7 @@ def parse_affil(affil_text):
                                           dict_location["location"])
 
     dict_out["full_text"] = affil_text.strip().strip('.')
-    dict_out["institution"] = institution.strip().strip()
+    dict_out["institution"] = institution.strip().strip('.')
     dict_out["divide"] = divide.strip().strip('.')
     dict_out["sub_devides"] = [i.strip().strip('.') for i in sub_devides]
 
