@@ -103,10 +103,10 @@ def parse_affil(affil_text):
     institution = append_institution_city(institution,
                                           dict_location["location"])
 
-    dict_out["full_text"] = affil_text.strip().strip('.')
-    dict_out["institution"] = institution.strip().strip('.')
-    dict_out["divide"] = divide.strip().strip('.')
-    dict_out["sub_devides"] = [i.strip().strip('.') for i in sub_devides]
+    dict_out["full_text"] = affil_text.strip(' .')
+    dict_out["institution"] = institution.strip(' .')
+    dict_out["divide"] = divide.strip(' .')
+    dict_out["sub_devides"] = [i.strip(' .') for i in sub_devides]
 
     dict_out.update(dict_location)
 
