@@ -1,5 +1,5 @@
 {
-    "united states": [
+    "United States": [
         "massachusetts",
         "boston",
         "howard university",
@@ -59,18 +59,18 @@
         "wyoming",
         "washington dc"
     ],
-    "china": [
+    "China": [
         "beijing",
         "hangzhou",
         "zhejiang",
         "shenyang",
         "shanghai"
     ],
-    "taiwan": [
+    "Taiwan (Province of China)": [
         "taipei",
         "chi-mei medical"
     ],
-    "united kingdom": [
+    "United Kingdom": [
         "liverpool",
         "london",
         "crumpsall",
@@ -84,13 +84,13 @@
         "edinburgh",
         "edinburge"
     ],
-    "italy": [
+    "Italy": [
         "torino",
         "turin",
         "portici",
         "palermo"
     ],
-    "germany": [
+    "Germany": [
         "engelskirchen",
         "berlin",
         "hannover",
@@ -99,7 +99,7 @@
         "leipzig",
         "frankfurt"
     ],
-    "japan": [
+    "Japan": [
         "keio University",
         "jikei university",
         "shiga university",
@@ -147,45 +147,42 @@
         "toranomon",
         "bunkyo gakuin"
     ],
-    "south korea": [
+    "South Korea": [
         "seoul"
     ],
-    "russia": [
+    "Russia": [
         "moscow"
     ],
-    "austria": [
+    "Austria": [
         "linz",
         "wien",
-        " graz",
+        "graz",
         "innsbruck"
     ],
-    "south korea": [
-        "korea"
-    ],
-    "israel": [
+    "Israel": [
         "jerusalem",
         "haifa",
         "tel aviv"
     ],
-    "norway": [
-        " oslo"
+    "Norway": [
+        "oslo"
     ],
-    "finland": [
+    "Finland": [
         "helsinki"
     ],
-    "south africa": [
+    "South Africa": [
         "johannesburg",
         "onderstepoort",
         "pretoria"
     ],
-    "france": [
+    "France": [
         "paris",
         "marseille",
         "brest",
         "limoges",
         "toulouse"
     ],
-    "canada": [
+    "Canada": [
         "vancouver",
         "ontario",
         "ottawa",
@@ -193,88 +190,88 @@
         "calgary",
         "alberta"
     ],
-    "denmark": [
+    "Denmark": [
         "copenhagen"
     ],
-    "egypt": [
+    "Egypt": [
         "cairo"
     ],
-    "poland": [
+    "Poland": [
         "gdansk",
         "krakow"
     ],
-    "turkey": [
+    "Turkey": [
         "istanbul",
-        " ankara"
+        "ankara"
     ],
-    "netherlands": [
+    "Netherlands": [
         "utrecht",
         "nijmegen",
         "amsterdam",
         "leiden"
     ],
-    "cyprus": [
+    "Cyprus": [
         "nicosia"
     ],
-    "gambia": [
-        " banjul"
+    "The Gambia": [
+        "banjul"
     ],
-    "thailand": [
+    "Thailand": [
         "bangkok"
     ],
-    "sweden": [
+    "Sweden": [
         "karlstad",
         "uppsala",
         "stockholm"
     ],
-    "australia": [
-        " perth",
+    "Australia": [
+        "perth",
         "queensland",
         "canberra",
         "melbourne"
     ],
-    "hungary": [
+    "Hungary": [
         "budapest"
     ],
-    " india": [
+    "India": [
         "chandigarh",
         "hyderabad",
         "delhi",
         "calcutta",
         "wardha",
-        " ucms",
+        "ucms",
         "ludhiana",
         "vellore"
     ],
-    "ireland": [
+    "Ireland": [
         "dublin",
         "belfast"
     ],
-    "colombia": [
+    "Colombia": [
         "bogota"
     ],
-    "malaysia": [
+    "Malaysia": [
         "kelantan"
     ],
-    " iran": [
+    "Iran": [
         "tehran",
         "shiraz",
         "mashhad"
     ],
-    "tunisia": [
+    "Tunisia": [
         "tunis"
     ],
-    "romania": [
+    "Romania": [
         "bucharest"
     ],
-    "czech republic": [
-        " praha",
+    "Czechia": [
+        "praha",
         "prague"
     ],
-    "spain": [
-        " madrid",
-        " toledo",
-        " alicante",
+    "Spain": [
+        "madrid",
+        "toledo",
+        "alicante",
         "zaragoza",
         "saragossa",
         "barcelona",
@@ -282,61 +279,61 @@
         "valencia",
         "malaga"
     ],
-    "greece": [
+    "Greece": [
         "athens"
     ],
-    "new zealand": [
+    "New Zealand": [
         "upper hutt",
         "auckland"
     ],
-    "saudi arabia": [
+    "Saudi Arabia": [
         "riyadh"
     ],
-    "nigeria": [
+    "Nigeria": [
         "ibadan"
     ],
-    "croatia": [
+    "Croatia": [
         "yugoslavia",
         "belgrade"
     ],
-    "switzerland": [
+    "Switzerland": [
         "basel",
-        " geneva"
+        "geneva"
     ],
-    "argentina": [
+    "Argentina": [
         "buenos aires"
     ],
-    "brazil": [
+    "Brazil": [
         "rio de janeiro",
         "cordeiropolis"
     ],
-    "peru": [
-        " lima"
+    "Peru": [
+        "lima"
     ],
-    "zimbabwe": [
+    "Zimbabwe": [
         "bulawayo"
     ],
-    "vietnam": [
+    "Vietnam": [
         "hanoi"
     ],
-    "albania": [
+    "Albania": [
         "tirana"
     ],
-    "tanzania": [
+    "Tanzania": [
         "morogoro"
     ],
-    "portugal": [
+    "Portugal": [
         "lisboa"
     ],
-    "armenia": [
+    "Armenia": [
         "yerevan"
     ],
-    "philippines": [
+    "Philippines": [
         "manila"
     ],
-    "belgium": [
-        " namur",
+    "Belgium": [
+        "namur",
         "bruxelles",
-        " genk"
+        "genk"
     ]
 }

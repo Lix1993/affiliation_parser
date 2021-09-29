@@ -1,504 +1,1255 @@
 {
-    "Afghanistan": "Afghanistan",
-    "The Islamic Republic of Afghanistan": "Afghanistan",
-    "Albania": "Albania",
-    "The Republic of Albania": "Albania",
-    "Algeria": "Algeria",
-    "The People's Democratic Republic of Algeria": "Algeria",
-    "American Samoa": "American Samoa",
-    "Andorra": "Andorra",
-    "The Principality of Andorra": "Andorra",
-    "Angola": "Angola",
-    "The Republic of Angola": "Angola",
-    "Anguilla": "Anguilla",
-    "Antarctica": "Antarctica",
-    "Antigua and Barbuda": "Antigua and Barbuda",
-    "Argentina": "Argentina",
-    "The Argentine Republic": "Argentina",
-    "Armenia": "Armenia",
-    "The Republic of Armenia": "Armenia",
-    "Aruba": "Aruba",
-    "Australia": "Australia",
-    "The Commonwealth of Australia": "Australia",
-    "Austria": "Austria",
-    "The Republic of Austria": "Austria",
-    "Azerbaijan": "Azerbaijan",
-    "The Republic of Azerbaijan": "Azerbaijan",
-    "The Bahamas": "The Bahamas",
-    "The Commonwealth of The Bahamas": "The Bahamas",
-    "Bahrain": "Bahrain",
-    "The Kingdom of Bahrain": "Bahrain",
-    "Bangladesh": "Bangladesh",
-    "The People's Republic of Bangladesh": "Bangladesh",
-    "Barbados": "Barbados",
-    "Belarus": "Belarus",
-    "The Republic of Belarus": "Belarus",
-    "Belgium": "Belgium",
-    "The Kingdom of Belgium": "Belgium",
-    "Belize": "Belize",
-    "Benin": "Benin",
-    "The Republic of Benin": "Benin",
-    "Bermuda": "Bermuda",
-    "Bhutan": "Bhutan",
-    "The Kingdom of Bhutan": "Bhutan",
-    "Bolivia": "Bolivia",
-    "The Plurinational State of Bolivia": "Bolivia",
-    "Bonaire, Sint Eustatius and Saba": "Bonaire, Sint Eustatius and Saba",
-    "Bosnia and Herzegovina": "Bosnia and Herzegovina",
-    "Botswana": "Botswana",
-    "The Republic of Botswana": "Botswana",
-    "Bouvet Island": "Bouvet Island",
-    "Brazil": "Brazil",
-    "The Federative Republic of Brazil": "Brazil",
-    "British Indian Ocean Territory (the)": "British Indian Ocean Territory (the)",
-    "Brunei": "Brunei",
-    "Brunei Darussalam": "Brunei",
-    "Bulgaria": "Bulgaria",
-    "The Republic of Bulgaria": "Bulgaria",
-    "Burkina Faso": "Burkina Faso",
-    "Burundi": "Burundi",
-    "The Republic of Burundi": "Burundi",
-    "Cape Verde": "Cape Verde",
-    "The Republic of Cabo Verde": "Cape Verde",
-    "Cambodia": "Cambodia",
-    "The Kingdom of Cambodia": "Cambodia",
-    "Cameroon": "Cameroon",
-    "The Republic of Cameroon": "Cameroon",
-    "Canada": "Canada",
-    "Cayman Islands (the)": "Cayman Islands (the)",
-    "Central African Republic": "Central African Republic",
-    "The Central African Republic": "Central African Republic",
-    "Chad": "Chad",
-    "The Republic of Chad": "Chad",
-    "Chile": "Chile",
-    "The Republic of Chile": "Chile",
-    "China": "China",
-    "The People's Republic of China": "China",
-    "Christmas Island": "Christmas Island",
-    "Cocos (Keeling) Islands (the)": "Cocos (Keeling) Islands (the)",
-    "Colombia": "Colombia",
-    "The Republic of Colombia": "Colombia",
-    "Comoros": "Comoros",
-    "The Union of the Comoros": "Comoros",
-    "Congo (Democratic Republic)": "Congo (Democratic Republic)",
-    "The Democratic Republic of the Congo": "Congo (Democratic Republic)",
-    "Congo": "Congo",
-    "The Republic of the Congo": "Congo",
-    "Cook Islands (the)": "Cook Islands (the)",
-    "Costa Rica": "Costa Rica",
-    "The Republic of Costa Rica": "Costa Rica",
-    "Croatia": "Croatia",
-    "The Republic of Croatia": "Croatia",
-    "Cuba": "Cuba",
-    "The Republic of Cuba": "Cuba",
-    "Cura\u00e7ao": "Cura\u00e7ao",
-    "Cyprus": "Cyprus",
-    "The Republic of Cyprus": "Cyprus",
-    "Czechia": "Czechia",
-    "The Czech Republic": "Czechia",
-    "Ivory Coast": "Ivory Coast",
-    "The Republic of C\u00f4te D\u2019Ivoire": "Ivory Coast",
-    "Denmark": "Denmark",
-    "The Kingdom of Denmark": "Denmark",
-    "Djibouti": "Djibouti",
-    "The Republic of Djibouti": "Djibouti",
-    "Dominica": "Dominica",
-    "The Commonwealth of Dominica": "Dominica",
-    "Dominican Republic": "Dominican Republic",
-    "The Dominican Republic": "Dominican Republic",
-    "Ecuador": "Ecuador",
-    "The Republic of Ecuador": "Ecuador",
-    "Egypt": "Egypt",
-    "The Arab Republic of Egypt": "Egypt",
-    "El Salvador": "El Salvador",
-    "The Republic of El Salvador": "El Salvador",
-    "Equatorial Guinea": "Equatorial Guinea",
-    "The Republic of Equatorial Guinea": "Equatorial Guinea",
-    "Eritrea": "Eritrea",
-    "The State of Eritrea": "Eritrea",
-    "Estonia": "Estonia",
-    "The Republic of Estonia": "Estonia",
-    "Eswatini": "Eswatini",
-    "Kingdom of Eswatini": "Eswatini",
-    "Ethiopia": "Ethiopia",
-    "The Federal Democratic Republic of Ethiopia": "Ethiopia",
-    "Falkland Islands (the) [Malvinas]": "Falkland Islands (the) [Malvinas]",
-    "Faroe Islands (the)": "Faroe Islands (the)",
-    "Fiji": "Fiji",
-    "The Republic of Fiji": "Fiji",
-    "Finland": "Finland",
-    "The Republic of Finland": "Finland",
-    "France": "France",
-    "The French Republic": "France",
-    "French Guiana": "French Guiana",
-    "French Polynesia": "French Polynesia",
-    "French Southern Territories (the)": "French Southern Territories (the)",
-    "Gabon": "Gabon",
-    "The Gabonese Republic": "Gabon",
-    "The Gambia": "The Gambia",
-    "The Republic of The Gambia": "The Gambia",
-    "Georgia": "Georgia",
-    "Germany": "Germany",
-    "The Federal Republic of Germany": "Germany",
-    "Ghana": "Ghana",
-    "The Republic of Ghana": "Ghana",
-    "Gibraltar": "Gibraltar",
-    "Greece": "Greece",
-    "The Hellenic Republic": "Greece",
-    "Greenland": "Greenland",
-    "Grenada": "Grenada",
-    "Guadeloupe": "Guadeloupe",
-    "Guam": "Guam",
-    "Guatemala": "Guatemala",
-    "The Republic of Guatemala": "Guatemala",
-    "Guernsey": "Guernsey",
-    "Guinea": "Guinea",
-    "The Republic of Guinea": "Guinea",
-    "Guinea-Bissau": "Guinea-Bissau",
-    "The Republic of Guinea-Bissau": "Guinea-Bissau",
-    "Guyana": "Guyana",
-    "The Co-operative Republic of Guyana": "Guyana",
-    "Haiti": "Haiti",
-    "The Republic of Haiti": "Haiti",
-    "Heard Island and McDonald Islands": "Heard Island and McDonald Islands",
-    "Vatican City": "Vatican City",
-    "Vatican City State": "Vatican City",
-    "Honduras": "Honduras",
-    "The Republic of Honduras": "Honduras",
-    "Hong Kong": "China",
-    "Hungary": "Hungary",
-    "Iceland": "Iceland",
-    "The Republic of Iceland": "Iceland",
-    "India": "India",
-    "The Republic of India": "India",
-    "Indonesia": "Indonesia",
-    "The Republic of Indonesia": "Indonesia",
-    "Iran": "Iran",
-    "The Islamic Republic of Iran": "Iran",
-    "Iraq": "Iraq",
-    "The Republic of Iraq": "Iraq",
-    "Ireland": "Ireland",
-    "Isle of Man": "Isle of Man",
-    "Israel": "Israel",
-    "The State of Israel": "Israel",
-    "Italy": "Italy",
-    "The Italian Republic": "Italy",
-    "Jamaica": "Jamaica",
-    "Japan": "Japan",
-    "Jersey": "Jersey",
-    "Jordan": "Jordan",
-    "The Hashemite Kingdom of Jordan": "Jordan",
-    "Kazakhstan": "Kazakhstan",
-    "The Republic of Kazakhstan": "Kazakhstan",
-    "Kenya": "Kenya",
-    "The Republic of Kenya": "Kenya",
-    "Kiribati": "Kiribati",
-    "The Republic of Kiribati": "Kiribati",
-    "North Korea": "North Korea",
-    "The Democratic People's Republic of Korea": "North Korea",
-    "South Korea": "South Korea",
-    "The Republic of Korea": "South Korea",
-    "Kuwait": "Kuwait",
-    "The State of Kuwait": "Kuwait",
-    "Kyrgyzstan": "Kyrgyzstan",
-    "The Kyrgyz Republic": "Kyrgyzstan",
-    "Laos": "Laos",
-    "The Lao People's Democratic Republic": "Laos",
-    "Latvia": "Latvia",
-    "The Republic of Latvia": "Latvia",
-    "Lebanon": "Lebanon",
-    "The Lebanese Republic": "Lebanon",
-    "Lesotho": "Lesotho",
-    "The Kingdom of Lesotho": "Lesotho",
-    "Liberia": "Liberia",
-    "The Republic of Liberia": "Liberia",
-    "Libya": "Libya",
-    "Liechtenstein": "Liechtenstein",
-    "The Principality of Liechtenstein": "Liechtenstein",
-    "Lithuania": "Lithuania",
-    "The Republic of Lithuania": "Lithuania",
-    "Luxembourg": "Luxembourg",
-    "The Grand Duchy of Luxembourg": "Luxembourg",
-    "Macao": "China",
-    "Madagascar": "Madagascar",
-    "The Republic of Madagascar": "Madagascar",
-    "Malawi": "Malawi",
-    "The Republic of Malawi": "Malawi",
-    "Malaysia": "Malaysia",
-    "Maldives": "Maldives",
-    "The Republic of Maldives": "Maldives",
-    "Mali": "Mali",
-    "The Republic of Mali": "Mali",
-    "Malta": "Malta",
-    "The Republic of Malta": "Malta",
-    "Marshall Islands": "Marshall Islands",
-    "The Republic of the Marshall Islands": "Marshall Islands",
-    "Martinique": "Martinique",
-    "Mauritania": "Mauritania",
-    "The Islamic Republic of Mauritania": "Mauritania",
-    "Mauritius": "Mauritius",
-    "The Republic of Mauritius": "Mauritius",
-    "Mayotte": "Mayotte",
-    "Mexico": "Mexico",
-    "The United Mexican States": "Mexico",
-    "Micronesia": "Micronesia",
-    "The Federated States of Micronesia": "Micronesia",
-    "Moldova": "Moldova",
-    "The Republic of Moldova": "Moldova",
-    "Monaco": "Monaco",
-    "The Principality of Monaco": "Monaco",
-    "Mongolia": "Mongolia",
-    "Montenegro": "Montenegro",
-    "Montserrat": "Montserrat",
-    "Morocco": "Morocco",
-    "The Kingdom of Morocco": "Morocco",
-    "Mozambique": "Mozambique",
-    "The Republic of Mozambique": "Mozambique",
-    "Myanmar (Burma)": "Myanmar (Burma)",
-    "The Republic of the Union of Myanmar": "Myanmar (Burma)",
-    "Namibia": "Namibia",
-    "The Republic of Namibia": "Namibia",
-    "Nauru": "Nauru",
-    "The Republic of Nauru": "Nauru",
-    "Nepal": "Nepal",
-    "The Federal Democratic Republic of Nepal": "Nepal",
-    "Netherlands": "Netherlands",
-    "The Kingdom of the Netherlands": "Netherlands",
-    "New Caledonia": "New Caledonia",
-    "New Zealand": "New Zealand",
-    "Nicaragua": "Nicaragua",
-    "The Republic of Nicaragua": "Nicaragua",
-    "Niger": "Niger",
-    "The Republic of Niger": "Niger",
-    "Nigeria": "Nigeria",
-    "The Federal Republic of Nigeria": "Nigeria",
-    "Niue": "Niue",
-    "Norfolk Island": "Norfolk Island",
-    "North Macedonia": "North Macedonia",
-    "Republic of North Macedonia": "North Macedonia",
-    "Northern Mariana Islands (the)": "Northern Mariana Islands (the)",
-    "Norway": "Norway",
-    "The Kingdom of Norway": "Norway",
-    "Oman": "Oman",
-    "The Sultanate of Oman": "Oman",
-    "Pakistan": "Pakistan",
-    "The Islamic Republic of Pakistan": "Pakistan",
-    "Palau": "Palau",
-    "The Republic of Palau": "Palau",
-    "Palestine, State of": "Palestine, State of",
-    "Panama": "Panama",
-    "The Republic of Panama": "Panama",
-    "Papua New Guinea": "Papua New Guinea",
-    "The Independent State of Papua New Guinea": "Papua New Guinea",
-    "Paraguay": "Paraguay",
-    "The Republic of Paraguay": "Paraguay",
-    "Peru": "Peru",
-    "The Republic of Peru": "Peru",
-    "Philippines": "Philippines",
-    "The Republic of the Philippines": "Philippines",
-    "Pitcairn": "Pitcairn",
-    "Poland": "Poland",
-    "The Republic of Poland": "Poland",
-    "Portugal": "Portugal",
-    "The Portuguese Republic": "Portugal",
-    "Puerto Rico": "Puerto Rico",
-    "Qatar": "Qatar",
-    "The State of Qatar": "Qatar",
-    "Romania": "Romania",
-    "Russia": "Russia",
-    "The Russian Federation": "Russia",
-    "Rwanda": "Rwanda",
-    "The Republic of Rwanda": "Rwanda",
-    "R\u00e9union": "R\u00e9union",
-    "Saint Barth\u00e9lemy": "Saint Barth\u00e9lemy",
-    "Saint Helena, Ascension and Tristan da Cunha": "Saint Helena, Ascension and Tristan da Cunha",
-    "St Kitts and Nevis": "St Kitts and Nevis",
-    "The Federation of Saint Christopher and Nevis": "St Kitts and Nevis",
-    "St Lucia": "St Lucia",
-    "Saint Lucia": "St Lucia",
-    "Saint Martin (French part)": "Saint Martin (French part)",
-    "Saint Pierre and Miquelon": "Saint Pierre and Miquelon",
-    "St Vincent": "St Vincent",
-    "Saint Vincent and the Grenadines": "St Vincent",
-    "Samoa": "Samoa",
-    "The Independent State of Samoa": "Samoa",
-    "San Marino": "San Marino",
-    "The Republic of San Marino": "San Marino",
-    "Sao Tome and Principe": "Sao Tome and Principe",
-    "The Democratic Republic of Sao Tome and Principe": "Sao Tome and Principe",
-    "Saudi Arabia": "Saudi Arabia",
-    "The Kingdom of Saudi Arabia": "Saudi Arabia",
-    "Senegal": "Senegal",
-    "The Republic of Senegal": "Senegal",
-    "Serbia": "Serbia",
-    "The Republic of Serbia": "Serbia",
-    "Seychelles": "Seychelles",
-    "The Republic of Seychelles": "Seychelles",
-    "Sierra Leone": "Sierra Leone",
-    "The Republic of Sierra Leone": "Sierra Leone",
-    "Singapore": "Singapore",
-    "The Republic of Singapore": "Singapore",
-    "Sint Maarten (Dutch part)": "Sint Maarten (Dutch part)",
-    "Slovakia": "Slovakia",
-    "The Slovak Republic": "Slovakia",
-    "Slovenia": "Slovenia",
-    "The Republic of Slovenia": "Slovenia",
-    "Solomon Islands": "Solomon Islands",
-    "Somalia": "Somalia",
-    "Federal Republic of Somalia": "Somalia",
-    "South Africa": "South Africa",
-    "The Republic of South Africa": "South Africa",
-    "South Georgia and the South Sandwich Islands": "South Georgia and the South Sandwich Islands",
-    "South Sudan": "South Sudan",
-    "The Republic of South Sudan": "South Sudan",
-    "Spain": "Spain",
-    "The Kingdom of Spain": "Spain",
-    "Sri Lanka": "Sri Lanka",
-    "The Democratic Socialist Republic of Sri Lanka": "Sri Lanka",
-    "Sudan": "Sudan",
-    "The Republic of the Sudan": "Sudan",
-    "Suriname": "Suriname",
-    "The Republic of Suriname": "Suriname",
-    "Svalbard and Jan Mayen": "Svalbard and Jan Mayen",
-    "Sweden": "Sweden",
-    "The Kingdom of Sweden": "Sweden",
-    "Switzerland": "Switzerland",
-    "The Swiss Confederation": "Switzerland",
-    "Syria": "Syria",
-    "The Syrian Arab Republic": "Syria",
-    "Taiwan (Province of China)": "Taiwan (Province of China)",
-    "Tajikistan": "Tajikistan",
-    "The Republic of Tajikistan": "Tajikistan",
-    "Tanzania": "Tanzania",
-    "The United Republic of Tanzania": "Tanzania",
-    "Thailand": "Thailand",
-    "The Kingdom of Thailand": "Thailand",
-    "East Timor": "East Timor",
-    "The Democratic Republic of Timor-Leste": "East Timor",
-    "Togo": "Togo",
-    "The Togolese Republic": "Togo",
-    "Tokelau": "Tokelau",
-    "Tonga": "Tonga",
-    "The Kingdom of Tonga": "Tonga",
-    "Trinidad and Tobago": "Trinidad and Tobago",
-    "The Republic of Trinidad and Tobago": "Trinidad and Tobago",
-    "Tunisia": "Tunisia",
-    "The Tunisian Republic": "Tunisia",
-    "Turkey": "Turkey",
-    "The Republic of Turkey": "Turkey",
-    "Turkmenistan": "Turkmenistan",
-    "Turks and Caicos Islands (the)": "Turks and Caicos Islands (the)",
-    "Tuvalu": "Tuvalu",
-    "Uganda": "Uganda",
-    "The Republic of Uganda": "Uganda",
-    "Ukraine": "Ukraine",
-    "United Arab Emirates": "United Arab Emirates",
-    "The United Arab Emirates": "United Arab Emirates",
-    "United Kingdom": "United Kingdom",
-    "The United Kingdom of Great Britain and Northern Ireland": "United Kingdom",
-    "United States Minor Outlying Islands (the)": "United States Minor Outlying Islands (the)",
-    "United States": "United States",
-    "The United States of America": "United States",
-    "Uruguay": "Uruguay",
-    "The Oriental Republic of Uruguay": "Uruguay",
-    "Uzbekistan": "Uzbekistan",
-    "The Republic of Uzbekistan": "Uzbekistan",
-    "Vanuatu": "Vanuatu",
-    "The Republic of Vanuatu": "Vanuatu",
-    "Venezuela": "Venezuela",
-    "The Bolivarian Republic of Venezuela": "Venezuela",
-    "Vietnam": "Vietnam",
-    "The Socialist Republic of Viet Nam": "Vietnam",
-    "Virgin Islands (British)": "Virgin Islands (British)",
-    "Virgin Islands (U.S.)": "Virgin Islands (U.S.)",
-    "Wallis and Futuna": "Wallis and Futuna",
-    "Western Sahara": "Western Sahara",
-    "Yemen": "Yemen",
-    "The Republic of Yemen": "Yemen",
-    "Zambia": "Zambia",
-    "The Republic of Zambia": "Zambia",
-    "Zimbabwe": "Zimbabwe",
-    "The Republic of Zimbabwe": "Zimbabwe",
-    "\u00c5land Islands": "\u00c5land Islands",
-    "Alg\u00e9rie": "Algeria",
-    "South Australia": "Australia",
-    "Western Australia": "Australia",
-    "Bol\u00edvia": "Bolivia",
-    "Brasil": "Brazil",
-    "PR China": "China",
-    "P.R.China": "China",
-    "P.R. China": "China",
-    "PRC": "China",
-    "P.R.C.": "China",
-    "P.R.C": "China",
-    "People's Republic of China": "China",
-    "China (mainland)": "China",
-    "Hong Kong SAR": "China",
-    "Macao SAR": "China",
-    "Taiwan": "China",
-    "Chinese Taipei": "China",
-    "Columbia": "Colombia",
-    "Democratic Republic of Congo": "Congo (Democratic Republic)",
-    "West Germany": "Germany",
-    "East Germany": "Germany",
-    "W Germany": "Germany",
-    "W-Germany": "Germany",
-    "E Germany": "Germany",
-    "Federal Republic of Germany": "Germany",
-    "German Democratic Republic": "Germany",
-    "Deutschland": "Germany",
-    "Islamic Republic of Iran": "Iran",
-    "Republic of Ireland": "Ireland",
-    "Italia": "Italy",
-    "Italien": "Italy",
-    "Korea": "South Korea",
-    "Republic of Korea": "South Korea",
-    "M\u00e9xico": "Mexico",
-    "Republic of the Union of Myanmar": "Myanmar (Burma)",
-    "The Netherlands": "Netherlands",
-    "Per\u00fa": "Peru",
-    "Portugalu": "Portugal",
-    "State of Qatar": "Qatar",
-    "Kingdom of Saudi Arabia": "Saudi Arabia",
-    "Slovak Republic": "Slovakia",
-    "Espa\u00f1a": "Spain",
-    "Turkish Republic": "Turkey",
-    "T\u00fcrkiye": "Turkey",
-    "Turquia": "Turkey",
-    "UAE": "United Arab Emirates",
-    "U.K": "United Kingdom",
-    "U.K.": "United Kingdom",
-    "UK": "United Kingdom",
-    "England": "United Kingdom",
-    "Scotland": "United Kingdom",
-    "Wales": "United Kingdom",
-    "Northern Ireland": "United Kingdom",
-    "Great Britain": "United Kingdom",
-    "U.S.A": "United States",
-    "U.S.A.": "United States",
-    "Bolivarian Republic of Venezuela": "Venezuela",
-    "italia": "italy",
-    "u.k.": "united kingdom",
-    " uk": "united kingdom",
-    "uk.": "united kingdom",
-    "\\buk\\b": "united kingdom",
-    "england": "united kingdom",
-    "u.s.a": "united states",
-    "u. s. a.": "united states",
-    "tunisie": "tunisia",
-    "lietuvos": "lithuania",
-    "czechoslovakia": "czech republic",
-    "frg": "germany",
-    "brd": "germany",
-    "f.r.g.": "germany",
-    "deutschland": "germany",
-    "taiwan, ": "taiwan",
-    "mexico city": "mexico",
-    "brasil": "brazil",
-    "democratic republic of congo": "congo",
-    "pr china": "china",
-    "belgique": "belgium",
-    "bosnia": "bosnia and herzegovina",
-    "herzegovina": "bosnia and herzegovina",
-    "kuwait city": "kuwait"
+    "Afghanistan": [
+        "afg",
+        "afghanistan",
+        "the islamic republic of afghanistan"
+    ],
+    "Albania": [
+        "albania",
+        "the republic of albania",
+        "alb"
+    ],
+    "Algeria": [
+        "algeria",
+        "alg\u00e9rie",
+        "the people's democratic republic of algeria",
+        "dza"
+    ],
+    "American Samoa": [
+        "american samoa",
+        "asm"
+    ],
+    "Andorra": [
+        "and",
+        "the principality of andorra",
+        "andorra"
+    ],
+    "Angola": [
+        "the republic of angola",
+        "angola",
+        "ago"
+    ],
+    "Anguilla": [
+        "anguilla",
+        "aia"
+    ],
+    "Antarctica": [
+        "antarctica",
+        "ata"
+    ],
+    "Antigua and Barbuda": [
+        "atg",
+        "antigua and barbuda"
+    ],
+    "Argentina": [
+        "arg",
+        "argentina",
+        "the argentine republic"
+    ],
+    "Armenia": [
+        "the republic of armenia",
+        "arm",
+        "armenia"
+    ],
+    "Aruba": [
+        "abw",
+        "aruba"
+    ],
+    "Australia": [
+        "western australia",
+        "south australia",
+        "australia",
+        "the commonwealth of australia",
+        "aus"
+    ],
+    "Austria": [
+        "aut",
+        "austria",
+        "the republic of austria"
+    ],
+    "Azerbaijan": [
+        "azerbaijan",
+        "aze",
+        "the republic of azerbaijan"
+    ],
+    "The Bahamas": [
+        "the bahamas",
+        "bhs",
+        "the commonwealth of the bahamas"
+    ],
+    "Bahrain": [
+        "bhr",
+        "the kingdom of bahrain",
+        "bahrain"
+    ],
+    "Bangladesh": [
+        "the people's republic of bangladesh",
+        "bangladesh",
+        "bgd"
+    ],
+    "Barbados": [
+        "barbados",
+        "brb"
+    ],
+    "Belarus": [
+        "blr",
+        "the republic of belarus",
+        "belarus"
+    ],
+    "Belgium": [
+        "bel",
+        "belgique",
+        "the kingdom of belgium",
+        "belgium"
+    ],
+    "Belize": [
+        "belize",
+        "blz"
+    ],
+    "Benin": [
+        "the republic of benin",
+        "ben",
+        "benin"
+    ],
+    "Bermuda": [
+        "bermuda",
+        "bmu"
+    ],
+    "Bhutan": [
+        "btn",
+        "the kingdom of bhutan",
+        "bhutan"
+    ],
+    "Bolivia": [
+        "the plurinational state of bolivia",
+        "bol",
+        "bol\u00edvia",
+        "bolivia"
+    ],
+    "Bonaire, Sint Eustatius and Saba": [
+        "bonaire, sint eustatius and saba",
+        "bes",
+        "caribbean netherlands"
+    ],
+    "Bosnia and Herzegovina": [
+        "bosnia and herzegovina",
+        "bosnia",
+        "herzegovina",
+        "bih"
+    ],
+    "Botswana": [
+        "botswana",
+        "bwa",
+        "the republic of botswana"
+    ],
+    "Bouvet Island": [
+        "bvt",
+        "bouvet island"
+    ],
+    "Brazil": [
+        "the federative republic of brazil",
+        "bra",
+        "brasil",
+        "brazil"
+    ],
+    "British Indian Ocean Territory": [
+        "british indian ocean territory",
+        "iot"
+    ],
+    "Brunei": [
+        "brn",
+        "brunei",
+        "brunei darussalam"
+    ],
+    "Bulgaria": [
+        "the republic of bulgaria",
+        "bulgaria",
+        "bgr"
+    ],
+    "Burkina Faso": [
+        "bfa",
+        "burkina faso"
+    ],
+    "Burundi": [
+        "the republic of burundi",
+        "bdi",
+        "burundi"
+    ],
+    "Cape Verde": [
+        "cpv",
+        "the republic of cabo verde",
+        "cape verde"
+    ],
+    "Cambodia": [
+        "khm",
+        "cambodia",
+        "the kingdom of cambodia"
+    ],
+    "Cameroon": [
+        "cmr",
+        "the republic of cameroon",
+        "cameroon"
+    ],
+    "Canada": [
+        "canada",
+        "can"
+    ],
+    "Cayman Islands": [
+        "cym",
+        "cayman islands"
+    ],
+    "Central African Republic": [
+        "central african republic",
+        "caf",
+        "the central african republic"
+    ],
+    "Chad": [
+        "the republic of chad",
+        "tcd",
+        "chad"
+    ],
+    "Chile": [
+        "chile",
+        "chl",
+        "the republic of chile"
+    ],
+    "China": [
+        "chn",
+        "p.r.china",
+        "p.r. china",
+        "prc",
+        "p.r.c.",
+        "p.r.c",
+        "the people's republic of china",
+        "pr china",
+        "china (mainland)",
+        "china",
+        "people's republic of china"
+    ],
+    "Christmas Island": [
+        "christmas island",
+        "cxr"
+    ],
+    "Cocos (Keeling) Islands": [
+        "cocos (keeling) islands",
+        "cck"
+    ],
+    "Colombia": [
+        "columbia",
+        "the republic of colombia",
+        "col",
+        "colombia"
+    ],
+    "Comoros": [
+        "the union of the comoros",
+        "com",
+        "comoros"
+    ],
+    "Congo (Democratic Republic)": [
+        "congo (democratic republic)",
+        "the democratic republic of the congo",
+        "cod",
+        "democratic republic of congo"
+    ],
+    "Congo": [
+        "congo",
+        "cog",
+        "the republic of the congo"
+    ],
+    "Cook Islands": [
+        "cook islands",
+        "cok"
+    ],
+    "Costa Rica": [
+        "cri",
+        "costa rica",
+        "the republic of costa rica"
+    ],
+    "Croatia": [
+        "croatia",
+        "hrv",
+        "the republic of croatia"
+    ],
+    "Cuba": [
+        "the republic of cuba",
+        "cub",
+        "cuba"
+    ],
+    "Cura\u00e7ao": [
+        "cura\u00e7ao",
+        "cuw"
+    ],
+    "Cyprus": [
+        "cyp",
+        "the republic of cyprus",
+        "cyprus"
+    ],
+    "Czechia": [
+        "czechoslovakia",
+        "the czech republic",
+        "czech republic",
+        "cze",
+        "czechia"
+    ],
+    "Ivory Coast": [
+        "ivory coast",
+        "civ",
+        "the republic of c\u00f4te d\u2019ivoire"
+    ],
+    "Denmark": [
+        "dnk",
+        "the kingdom of denmark",
+        "denmark"
+    ],
+    "Djibouti": [
+        "the republic of djibouti",
+        "djibouti",
+        "dji"
+    ],
+    "Dominica": [
+        "the commonwealth of dominica",
+        "dma",
+        "dominica"
+    ],
+    "Dominican Republic": [
+        "the dominican republic",
+        "dom",
+        "dominican republic"
+    ],
+    "Ecuador": [
+        "ecuador",
+        "the republic of ecuador",
+        "ecu"
+    ],
+    "Egypt": [
+        "egypt",
+        "egy",
+        "the arab republic of egypt"
+    ],
+    "El Salvador": [
+        "the republic of el salvador",
+        "el salvador",
+        "slv"
+    ],
+    "Equatorial Guinea": [
+        "equatorial guinea",
+        "gnq",
+        "the republic of equatorial guinea"
+    ],
+    "Eritrea": [
+        "eritrea",
+        "the state of eritrea",
+        "eri"
+    ],
+    "Estonia": [
+        "the republic of estonia",
+        "est",
+        "estonia"
+    ],
+    "Eswatini": [
+        "kingdom of eswatini",
+        "swz",
+        "eswatini"
+    ],
+    "Ethiopia": [
+        "ethiopia",
+        "eth",
+        "the federal democratic republic of ethiopia"
+    ],
+    "Falkland Islands (Islas Malvinas)": [
+        "flk",
+        "falkland islands (islas malvinas)"
+    ],
+    "Faroe Islands": [
+        "fro",
+        "faroe islands"
+    ],
+    "Fiji": [
+        "the republic of fiji",
+        "fji",
+        "fiji"
+    ],
+    "Finland": [
+        "the republic of finland",
+        "fin",
+        "finland"
+    ],
+    "France": [
+        "france",
+        "fra",
+        "the french republic"
+    ],
+    "French Guiana": [
+        "guf",
+        "french guiana"
+    ],
+    "French Polynesia": [
+        "french polynesia",
+        "pyf"
+    ],
+    "French Southern and Antarctic Lands": [
+        "french southern and antarctic lands",
+        "atf"
+    ],
+    "Gabon": [
+        "the gabonese republic",
+        "gab",
+        "gabon"
+    ],
+    "The Gambia": [
+        "the gambia",
+        "gambia",
+        "gmb",
+        "the republic of the gambia"
+    ],
+    "Georgia": [
+        "georgia",
+        "geo"
+    ],
+    "Germany": [
+        "deu",
+        "german democratic republic",
+        "federal republic of germany",
+        "frg",
+        "germany",
+        "west germany",
+        "deutschland",
+        "w germany",
+        "f.r.g.",
+        "the federal republic of germany",
+        "brd",
+        "e germany",
+        "east germany",
+        "w-germany"
+    ],
+    "Ghana": [
+        "the republic of ghana",
+        "ghana",
+        "gha"
+    ],
+    "Gibraltar": [
+        "gibraltar",
+        "gib"
+    ],
+    "Greece": [
+        "greece",
+        "the hellenic republic",
+        "grc"
+    ],
+    "Greenland": [
+        "greenland",
+        "grl"
+    ],
+    "Grenada": [
+        "grd",
+        "grenada"
+    ],
+    "Guadeloupe": [
+        "glp",
+        "guadeloupe"
+    ],
+    "Guam": [
+        "gum",
+        "guam"
+    ],
+    "Guatemala": [
+        "the republic of guatemala",
+        "guatemala",
+        "gtm"
+    ],
+    "Guernsey": [
+        "bailiwick of guernsey",
+        "guernsey",
+        "ggy"
+    ],
+    "Guinea": [
+        "the republic of guinea",
+        "guinea",
+        "gin"
+    ],
+    "Guinea-Bissau": [
+        "the republic of guinea-bissau",
+        "gnb",
+        "guinea-bissau"
+    ],
+    "Guyana": [
+        "the co-operative republic of guyana",
+        "guyana",
+        "guy"
+    ],
+    "Haiti": [
+        "hti",
+        "the republic of haiti",
+        "haiti"
+    ],
+    "Heard Island and McDonald Islands": [
+        "heard island and mcdonald islands",
+        "hmd"
+    ],
+    "Vatican City": [
+        "vatican city state",
+        "vat",
+        "vatican city"
+    ],
+    "Honduras": [
+        "hnd",
+        "honduras",
+        "the republic of honduras"
+    ],
+    "Hong Kong": [
+        "hong kong special administrative region of the people's republic of china",
+        "hong kong sar",
+        "hkg",
+        "hong kong"
+    ],
+    "Hungary": [
+        "hungary",
+        "hun"
+    ],
+    "Iceland": [
+        "iceland",
+        "isl",
+        "the republic of iceland"
+    ],
+    "India": [
+        "india",
+        "the republic of india",
+        "ind"
+    ],
+    "Indonesia": [
+        "the republic of indonesia",
+        "idn",
+        "indonesia"
+    ],
+    "Iran": [
+        "iran",
+        "the islamic republic of iran",
+        "islamic republic of iran",
+        "irn"
+    ],
+    "Iraq": [
+        "iraq",
+        "the republic of iraq",
+        "irq"
+    ],
+    "Ireland": [
+        "republic of ireland",
+        "irl",
+        "ireland"
+    ],
+    "Isle of Man": [
+        "imn",
+        "isle of man"
+    ],
+    "Israel": [
+        "the state of israel",
+        "isr",
+        "israel"
+    ],
+    "Italy": [
+        "italia",
+        "italy",
+        "the italian republic",
+        "italien",
+        "ita"
+    ],
+    "Jamaica": [
+        "jamaica",
+        "jam"
+    ],
+    "Japan": [
+        "jpn",
+        "japan"
+    ],
+    "Jersey": [
+        "jey",
+        "jersey"
+    ],
+    "Jordan": [
+        "the hashemite kingdom of jordan",
+        "jordan",
+        "jor"
+    ],
+    "Kazakhstan": [
+        "kaz",
+        "kazakhstan",
+        "the republic of kazakhstan"
+    ],
+    "Kenya": [
+        "kenya",
+        "ken",
+        "the republic of kenya"
+    ],
+    "Kiribati": [
+        "the republic of kiribati",
+        "kiribati",
+        "kir"
+    ],
+    "North Korea": [
+        "north korea",
+        "prk",
+        "the democratic people's republic of korea"
+    ],
+    "South Korea": [
+        "south korea",
+        "the republic of korea",
+        "republic of korea",
+        "kor",
+        "korea"
+    ],
+    "Kuwait": [
+        "the state of kuwait",
+        "kuwait",
+        "kuwait city",
+        "kwt"
+    ],
+    "Kyrgyzstan": [
+        "kyrgyzstan",
+        "the kyrgyz republic",
+        "kgz"
+    ],
+    "Laos": [
+        "laos",
+        "lao",
+        "the lao people's democratic republic"
+    ],
+    "Latvia": [
+        "the republic of latvia",
+        "latvia",
+        "lva"
+    ],
+    "Lebanon": [
+        "lbn",
+        "lebanon",
+        "the lebanese republic"
+    ],
+    "Lesotho": [
+        "lso",
+        "lesotho",
+        "the kingdom of lesotho"
+    ],
+    "Liberia": [
+        "liberia",
+        "lbr",
+        "the republic of liberia"
+    ],
+    "Libya": [
+        "libya",
+        "lby"
+    ],
+    "Liechtenstein": [
+        "liechtenstein",
+        "the principality of liechtenstein",
+        "lie"
+    ],
+    "Lithuania": [
+        "the republic of lithuania",
+        "ltu",
+        "lithuania",
+        "lietuvos"
+    ],
+    "Luxembourg": [
+        "luxembourg",
+        "the grand duchy of luxembourg",
+        "lux"
+    ],
+    "Macao": [
+        "macao",
+        "macao sar",
+        "macao special administrative region of the people's republic of china (msar)",
+        "mac"
+    ],
+    "Madagascar": [
+        "mdg",
+        "madagascar",
+        "the republic of madagascar"
+    ],
+    "Malawi": [
+        "malawi",
+        "the republic of malawi",
+        "mwi"
+    ],
+    "Malaysia": [
+        "malaysia",
+        "mys"
+    ],
+    "Maldives": [
+        "mdv",
+        "maldives",
+        "the republic of maldives"
+    ],
+    "Mali": [
+        "the republic of mali",
+        "mali",
+        "mli"
+    ],
+    "Malta": [
+        "mlt",
+        "the republic of malta",
+        "malta"
+    ],
+    "Marshall Islands": [
+        "mhl",
+        "the republic of the marshall islands",
+        "marshall islands"
+    ],
+    "Martinique": [
+        "martinique",
+        "mtq"
+    ],
+    "Mauritania": [
+        "mauritania",
+        "the islamic republic of mauritania",
+        "mrt"
+    ],
+    "Mauritius": [
+        "mauritius",
+        "mus",
+        "the republic of mauritius"
+    ],
+    "Mayotte": [
+        "mayotte",
+        "myt"
+    ],
+    "Mexico": [
+        "mexico",
+        "the united mexican states",
+        "m\u00e9xico",
+        "mexico city",
+        "mex"
+    ],
+    "Micronesia": [
+        "fsm",
+        "micronesia",
+        "the federated states of micronesia"
+    ],
+    "Moldova": [
+        "moldova",
+        "the republic of moldova",
+        "mda"
+    ],
+    "Monaco": [
+        "monaco",
+        "the principality of monaco",
+        "mco"
+    ],
+    "Mongolia": [
+        "mng",
+        "mongolia"
+    ],
+    "Montenegro": [
+        "montenegro",
+        "mne"
+    ],
+    "Montserrat": [
+        "msr",
+        "montserrat"
+    ],
+    "Morocco": [
+        "mar",
+        "morocco",
+        "the kingdom of morocco"
+    ],
+    "Mozambique": [
+        "moz",
+        "the republic of mozambique",
+        "mozambique"
+    ],
+    "Myanmar (Burma)": [
+        "mmr",
+        "the republic of the union of myanmar",
+        "myanmar (burma)",
+        "republic of the union of myanmar"
+    ],
+    "Namibia": [
+        "namibia",
+        "the republic of namibia",
+        "nam"
+    ],
+    "Nauru": [
+        "nauru",
+        "nru",
+        "the republic of nauru"
+    ],
+    "Nepal": [
+        "npl",
+        "the federal democratic republic of nepal",
+        "nepal"
+    ],
+    "Netherlands": [
+        "netherlands",
+        "the netherlands",
+        "the kingdom of the netherlands",
+        "nld"
+    ],
+    "New Caledonia": [
+        "ncl",
+        "new caledonia"
+    ],
+    "New Zealand": [
+        "new zealand",
+        "nzl"
+    ],
+    "Nicaragua": [
+        "the republic of nicaragua",
+        "nicaragua",
+        "nic"
+    ],
+    "Niger": [
+        "niger",
+        "the republic of niger",
+        "ner"
+    ],
+    "Nigeria": [
+        "the federal republic of nigeria",
+        "nga",
+        "nigeria"
+    ],
+    "Niue": [
+        "niu",
+        "niue"
+    ],
+    "Norfolk Island": [
+        "norfolk island",
+        "nfk"
+    ],
+    "North Macedonia": [
+        "north macedonia",
+        "republic of north macedonia",
+        "mkd"
+    ],
+    "Northern Mariana Islands": [
+        "mnp",
+        "northern mariana islands"
+    ],
+    "Norway": [
+        "norway",
+        "nor",
+        "the kingdom of norway"
+    ],
+    "Oman": [
+        "omn",
+        "oman",
+        "the sultanate of oman"
+    ],
+    "Pakistan": [
+        "pakistan",
+        "the islamic republic of pakistan",
+        "pak"
+    ],
+    "Palau": [
+        "plw",
+        "palau",
+        "the republic of palau"
+    ],
+    "Palestine": [
+        "pse",
+        "palestine",
+        "state of palestine"
+    ],
+    "Panama": [
+        "pan",
+        "panama",
+        "the republic of panama"
+    ],
+    "Papua New Guinea": [
+        "the independent state of papua new guinea",
+        "png",
+        "papua new guinea"
+    ],
+    "Paraguay": [
+        "paraguay",
+        "the republic of paraguay",
+        "pry"
+    ],
+    "Peru": [
+        "peru",
+        "the republic of peru",
+        "per\u00fa",
+        "per"
+    ],
+    "Philippines": [
+        "phl",
+        "philippines",
+        "the republic of the philippines"
+    ],
+    "Pitcairn": [
+        "pitcairn islands",
+        "pcn",
+        "pitcairn"
+    ],
+    "Poland": [
+        "the republic of poland",
+        "pol",
+        "poland"
+    ],
+    "Portugal": [
+        "portugalu",
+        "prt",
+        "the portuguese republic",
+        "portugal"
+    ],
+    "Puerto Rico": [
+        "puerto rico",
+        "pri"
+    ],
+    "Qatar": [
+        "qat",
+        "state of qatar",
+        "the state of qatar",
+        "qatar"
+    ],
+    "Romania": [
+        "rou",
+        "romania"
+    ],
+    "Russia": [
+        "rus",
+        "the russian federation",
+        "russia"
+    ],
+    "Rwanda": [
+        "rwanda",
+        "rwa",
+        "the republic of rwanda"
+    ],
+    "R\u00e9union": [
+        "reu",
+        "r\u00e9union island",
+        "r\u00e9union"
+    ],
+    "Saint Barth\u00e9lemy": [
+        "saint barth\u00e9lemy",
+        "blm"
+    ],
+    "Saint Helena, Ascension and Tristan da Cunha": [
+        "shn",
+        "saint helena, ascension and tristan da cunha"
+    ],
+    "St Kitts and Nevis": [
+        "kna",
+        "st kitts and nevis",
+        "the federation of saint christopher and nevis"
+    ],
+    "St Lucia": [
+        "lca",
+        "saint lucia",
+        "st lucia"
+    ],
+    "Saint Martin (French part)": [
+        "saint martin",
+        "maf",
+        "saint martin (french part)"
+    ],
+    "Saint Pierre and Miquelon": [
+        "spm",
+        "saint pierre and miquelon"
+    ],
+    "St Vincent": [
+        "saint vincent and the grenadines",
+        "vct",
+        "st vincent"
+    ],
+    "Samoa": [
+        "samoa",
+        "wsm",
+        "the independent state of samoa"
+    ],
+    "San Marino": [
+        "the republic of san marino",
+        "smr",
+        "san marino"
+    ],
+    "Sao Tome and Principe": [
+        "the democratic republic of sao tome and principe",
+        "sao tome and principe",
+        "stp"
+    ],
+    "Saudi Arabia": [
+        "the kingdom of saudi arabia",
+        "kingdom of saudi arabia",
+        "saudi arabia",
+        "sau"
+    ],
+    "Senegal": [
+        "senegal",
+        "sen",
+        "the republic of senegal"
+    ],
+    "Serbia": [
+        "serbia",
+        "srb",
+        "the republic of serbia"
+    ],
+    "Seychelles": [
+        "syc",
+        "seychelles",
+        "the republic of seychelles"
+    ],
+    "Sierra Leone": [
+        "the republic of sierra leone",
+        "sle",
+        "sierra leone"
+    ],
+    "Singapore": [
+        "sgp",
+        "the republic of singapore",
+        "singapore"
+    ],
+    "Sint Maarten (Dutch part)": [
+        "sxm",
+        "sint maarten",
+        "sint maarten (dutch part)"
+    ],
+    "Slovakia": [
+        "svk",
+        "the slovak republic",
+        "slovak republic",
+        "slovakia"
+    ],
+    "Slovenia": [
+        "slovenia",
+        "svn",
+        "the republic of slovenia"
+    ],
+    "Solomon Islands": [
+        "slb",
+        "solomon islands"
+    ],
+    "Somalia": [
+        "somalia",
+        "federal republic of somalia",
+        "som"
+    ],
+    "South Africa": [
+        "zaf",
+        "south africa",
+        "the republic of south africa"
+    ],
+    "South Georgia and the South Sandwich Islands": [
+        "sgs",
+        "south georgia and the south sandwich islands"
+    ],
+    "South Sudan": [
+        "the republic of south sudan",
+        "south sudan",
+        "ssd"
+    ],
+    "Spain": [
+        "the kingdom of spain",
+        "esp",
+        "spain",
+        "espa\u00f1a"
+    ],
+    "Sri Lanka": [
+        "sri lanka",
+        "the democratic socialist republic of sri lanka",
+        "lka"
+    ],
+    "Sudan": [
+        "sdn",
+        "the republic of the sudan",
+        "sudan"
+    ],
+    "Suriname": [
+        "suriname",
+        "the republic of suriname",
+        "sur"
+    ],
+    "Svalbard and Jan Mayen": [
+        "sjm",
+        "svalbard and jan mayen"
+    ],
+    "Sweden": [
+        "swe",
+        "the kingdom of sweden",
+        "sweden"
+    ],
+    "Switzerland": [
+        "switzerland",
+        "the swiss confederation",
+        "che"
+    ],
+    "Syria": [
+        "syr",
+        "syria",
+        "the syrian arab republic"
+    ],
+    "Taiwan (Province of China)": [
+        "taiwan, ",
+        "taiwan",
+        "taiwan (province of china)",
+        "twn"
+    ],
+    "Tajikistan": [
+        "tjk",
+        "the republic of tajikistan",
+        "tajikistan"
+    ],
+    "Tanzania": [
+        "tza",
+        "tanzania",
+        "the united republic of tanzania"
+    ],
+    "Thailand": [
+        "the kingdom of thailand",
+        "thailand",
+        "tha"
+    ],
+    "East Timor": [
+        "the democratic republic of timor-leste",
+        "east timor",
+        "tls"
+    ],
+    "Togo": [
+        "togo",
+        "the togolese republic",
+        "tgo"
+    ],
+    "Tokelau": [
+        "tkl",
+        "tokelau"
+    ],
+    "Tonga": [
+        "tonga",
+        "ton",
+        "the kingdom of tonga"
+    ],
+    "Trinidad and Tobago": [
+        "tto",
+        "trinidad and tobago",
+        "the republic of trinidad and tobago"
+    ],
+    "Tunisia": [
+        "the tunisian republic",
+        "tunisia",
+        "tunisie",
+        "tun"
+    ],
+    "Turkey": [
+        "turkish republic",
+        "tur",
+        "turquia",
+        "turkey",
+        "the republic of turkey",
+        "t\u00fcrkiye"
+    ],
+    "Turkmenistan": [
+        "tkm",
+        "turkmenistan"
+    ],
+    "Turks and Caicos Islands": [
+        "tca",
+        "turks and caicos islands"
+    ],
+    "Tuvalu": [
+        "tuv",
+        "tuvalu"
+    ],
+    "Uganda": [
+        "uganda",
+        "the republic of uganda",
+        "uga"
+    ],
+    "Ukraine": [
+        "ukraine",
+        "ukr"
+    ],
+    "United Arab Emirates": [
+        "are",
+        "the united arab emirates",
+        "uae",
+        "united arab emirates"
+    ],
+    "United Kingdom": [
+        "great britain",
+        "gbr",
+        "u.k.",
+        "england",
+        "wales",
+        "uk.",
+        "\buk\b",
+        "united kingdom",
+        "the united kingdom of great britain and northern ireland",
+        "uk",
+        "scotland",
+        "u.k",
+        " uk",
+        "northern ireland"
+    ],
+    "United States Minor Outlying Islands": [
+        "united states minor outlying islands",
+        "umi"
+    ],
+    "United States": [
+        "usa",
+        "u. s. a.",
+        "u.s.a",
+        "u.s.a.",
+        "united states",
+        "the united states of america"
+    ],
+    "Uruguay": [
+        "the oriental republic of uruguay",
+        "ury",
+        "uruguay"
+    ],
+    "Uzbekistan": [
+        "the republic of uzbekistan",
+        "uzb",
+        "uzbekistan"
+    ],
+    "Vanuatu": [
+        "vut",
+        "vanuatu",
+        "the republic of vanuatu"
+    ],
+    "Venezuela": [
+        "ven",
+        "venezuela",
+        "bolivarian republic of venezuela",
+        "the bolivarian republic of venezuela"
+    ],
+    "Vietnam": [
+        "vnm",
+        "the socialist republic of viet nam",
+        "vietnam"
+    ],
+    "British Virgin Islands": [
+        "british virgin islands",
+        "vgb"
+    ],
+    "U.S. Virgin Islands": [
+        "virgin islands of the united states",
+        "u.s. virgin islands",
+        "vir"
+    ],
+    "Wallis and Futuna": [
+        "wlf",
+        "territory of the wallis and futuna islands",
+        "wallis and futuna"
+    ],
+    "Western Sahara": [
+        "esh",
+        "western sahara"
+    ],
+    "Yemen": [
+        "yem",
+        "yemen",
+        "the republic of yemen"
+    ],
+    "Zambia": [
+        "the republic of zambia",
+        "zambia",
+        "zmb"
+    ],
+    "Zimbabwe": [
+        "zwe",
+        "zimbabwe",
+        "the republic of zimbabwe"
+    ],
+    "\u00c5land Islands": [
+        "ala",
+        "\u00e5land islands"
+    ]
 }
