@@ -26,8 +26,8 @@
     "laboratories": 100,
     "laboratoire": 100,
     "laboratorio": 100,
-    " inc": 1,
-    " llc": 1,
-    " ltd": 1,
-    " co": 1
+    " inc.": 1,
+    " llc.": 1,
+    " ltd.": 1,
+    " co.": 1
 }
